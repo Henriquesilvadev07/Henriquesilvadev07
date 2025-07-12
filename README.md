@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henriquesilvadev07
 - 👀 I’m interested in Work Hard
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Future
 - 📫 How to reach me IG:@oriiick
 - 😄 Pronouns: male

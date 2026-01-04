@@ -1,36 +1,24 @@
-# Olá, eu sou Henrique Silva 👋
+# Henrique Silva 👋
 
-Sou um desenvolvedor Java, focado em **Spring Boot**, criando **aplicações práticas e aplicáveis ao mundo real**.  
-Adoro desenvolver sistemas que simulam cenários reais, praticando minhas habilidades em **back-end e integração com front-end simples**.
-
----
-
-## 💻 Tecnologias & Ferramentas
-
-- **Linguagens:** Java, HTML, CSS, JavaScript  
-- **Back-end:** Spring Boot, Spring Data JPA, REST API  
-- **Banco de Dados:** H2  
-- **Ferramentas:** Git, GitHub, IntelliJ IDEA  
+Sou um desenvolvedor Java apaixonado por **Spring Boot** e por criar **aplicações práticas e aplicáveis ao mundo real**.  
+Gosto de construir sistemas que simulam cenários reais de trabalho, praticando **lógica, organização e boas práticas de programação**.
 
 ---
 
-## 🔹 Projetos em Destaque
+## 💻 Habilidades
 
-- **Gerenciador de Tasks / Chamados**  
-  CRUD completo com Java + Spring Boot + H2 Database + front-end responsivo em HTML/CSS/JS  
-
-- **CRUD de Produtos**  
-  Back-end Java + Spring Boot com endpoints REST para gerenciamento de produtos  
-
-> Projetos práticos, estruturados e com foco em aprendizado e aplicabilidade real.
+- Java, Spring Boot, REST API  
+- HTML, CSS, JavaScript  
+- Banco de dados H2  
+- Git e GitHub  
 
 ---
 
-## 🌱 Em Desenvolvimento
+## 🌱 Sobre mim
 
-- Aprimorando minhas habilidades em **Java e Spring Boot**  
-- Explorando mais sobre **desenvolvimento web e integração front-end simples**  
-- Praticando **bons hábitos de programação e estrutura de projetos**
+- Determinado e focado no aprendizado contínuo  
+- Curioso e sempre buscando entender como as coisas funcionam  
+- Gosto de transformar desafios em projetos concretos e funcionais  
 
 ---
 
@@ -38,10 +26,3 @@ Adoro desenvolver sistemas que simulam cenários reais, praticando minhas habili
 
 - 📞 +55 11 98523-7252  
 - ✉️ henriiisilva38@gmail.com  
-
----
-
-## ⚡ Curiosidades
-
-- Gosto de criar projetos que simulam **cenários do mundo real**, como gerenciadores de chamados  
-- Determinado, curioso e sempre buscando aprender e melhorar minhas habilidades

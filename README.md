@@ -9,7 +9,7 @@ Gosto de construir sistemas que simulam cenários reais de trabalho, praticando 
 
 - Java, Spring Boot, REST API  
 - HTML, CSS, JavaScript  
-- Banco de dados H2  
+- Banco de dados SQL  
 - Git e GitHub  
 
 ---

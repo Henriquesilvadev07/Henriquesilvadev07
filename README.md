@@ -1,4 +1,4 @@
-# Henrique Silva 👋
+# Olá, sou Henrique Silva 👋
 
 Sou um desenvolvedor Java apaixonado por **Spring Boot** e por criar **aplicações práticas e aplicáveis ao mundo real**.  
 Gosto de construir sistemas que simulam cenários reais de trabalho, praticando **lógica, organização e boas práticas de programação**.

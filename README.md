@@ -1,65 +1,83 @@
-# 👋 Olá! Eu sou o Henrique Silva
+<div align="center">
 
-### 💻 Desenvolvedor Backend Java em formação
+# `Henrique Silva`
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, focado em desenvolvimento backend com Java e Spring Boot.
+### BACKEND DEVELOPER · JAVA
 
-Gosto de transformar problemas do dia a dia em aplicações funcionais, construindo projetos que simulam cenários reais e me ajudam a evoluir em arquitetura, APIs REST, persistência de dados e boas práticas de programação.
+`[ Building real-world applications ]`
 
-- 🚀 Foco atual: **Java, Spring Boot e desenvolvimento de APIs REST**
-- 🎓 Análise e Desenvolvimento de Sistemas — FIAP
-- 🛠️ Aprendendo na prática através de projetos próprios
-- 📍 São Paulo, Brasil
+<br/>
 
----
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+Desenvolvendo soluções com Java, Spring Boot e APIs REST.
 
-## 🧰 Tecnologias
+<br/>
 
-**Backend**
+[ GITHUB ](https://github.com/Henriquesilvadev07) · [ LINKEDIN ](https://www.linkedin.com/in/henrique-silva-de-carvalho-9a15b2356) · [ EMAIL ](mailto:henriiisilva38@gmail.com)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-**Banco de dados e ferramentas**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+### `01 / TECH STACK`
 
-### 🐾 [Sossego PetShop](https://github.com/Henriquesilvadev07/SossegoPetShop)
+<div align="center">
 
-Sistema para organização de atendimentos em pet shop, com cadastro de clientes e pets, agendamento de banhos, consulta de atendimentos e notificações via WhatsApp.
+![Java](https://img.shields.io/badge/Java-0B0B12?style=for-the-badge&logo=openjdk&logoColor=8B5CF6)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0B12?style=for-the-badge&logo=springboot&logoColor=8B5CF6)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0B0B12?style=for-the-badge&logo=springsecurity&logoColor=8B5CF6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B12?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0B0B12?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-0B0B12?style=for-the-badge&logo=git&logoColor=F97316)
 
-### 💳 [RickSubs](https://github.com/Henriquesilvadev07/Gerenciamento-de-Assinaturas)
+</div>
 
-Aplicação para gerenciamento de assinaturas e despesas recorrentes, com controle de vencimentos, valores, status de pagamento e acompanhamento das informações em um dashboard.
+LANGUAGES    Java · SQL
+BACKEND      Spring Boot · Spring Security · JPA / Hibernate
+DATABASE     PostgreSQL
+TOOLS        Git · GitHub · Docker · Swagger / OpenAPI
 
-### 🔐 [RickHubAPI](https://github.com/Henriquesilvadev07/RickHubAPI)
+02 / SELECTED PROJECTS
 
-API desenvolvida com Java e Spring Boot, explorando autenticação com JWT e controle de acesso baseado em funções.
+[01] — Sossego PetShop
 
----
+Sistema para organização de atendimentos em pet shop.
 
-## 📊 GitHub
+Cadastro de clientes e pets, agendamentos, consulta de atendimentos e notificações via WhatsApp.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriquesilvadev07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+ VIEW REPOSITORY → 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesilvadev07&layout=compact&theme=tokyonight&hide_border=true)
+[02] — RickSubs
 
----
+Gerenciamento de assinaturas e despesas recorrentes.
 
-## 📫 Vamos nos conectar?
+Controle de valores, vencimentos, pagamentos e acompanhamento financeiro por meio de um dashboard.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-silva-de-carvalho-9a15b2356)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriiisilva38@gmail.com)
+ VIEW REPOSITORY → 
 
----
+[03] — RickHubAPI
 
-*Evoluindo um projeto de cada vez.* ☕
+API backend com autenticação e controle de acesso.
+
+Projeto desenvolvido com Java e Spring Boot, explorando autenticação JWT e autorização baseada em funções.
+
+ VIEW REPOSITORY → 
+
+03 / GITHUB ACTIVITY
+
+<div align="center">
+
+
+
+
+
+</div>
+
+<div align="center">
+
+// ALWAYS LEARNING. ALWAYS BUILDING.
+
+São Paulo, Brazil · FIAP ADS · Expected graduation: 2027
+
+</div>
+

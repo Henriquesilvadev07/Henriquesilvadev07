@@ -108,16 +108,6 @@ Busco evoluir continuamente por meio de projetos práticos, resolução de probl
 
 ---
 
-## `$ contribution-activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henriquesilvadev07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## `$ contribution-snake`
 
 <div align="center">

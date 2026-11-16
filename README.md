@@ -96,8 +96,6 @@ Busco evoluir continuamente por meio de projetos práticos, resolução de probl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquesilvadev07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesilvadev07&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>

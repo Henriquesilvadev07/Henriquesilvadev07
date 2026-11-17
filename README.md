@@ -65,7 +65,7 @@ Busco evoluir continuamente por meio de projetos práticos, resolução de probl
 
 ### Backend & Programming
 
-<img src="https://skillicons.dev/icons?i=java,spring,python" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
 ### Database & Persistence
 
